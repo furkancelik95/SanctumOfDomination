@@ -1,0 +1,33 @@
+h1{
+    color: black;
+    text-align: center;
+}
+html {
+    background: url(torghast.jpg) no-repeat center fixed;
+    background-size: cover;
+  }
+
+.wrapper {
+    text-align: center;
+    padding-top: 300px;
+}
+.crapper{
+    text-align: center;
+    padding-top: 700px;
+}
+.button {
+    background-color: black;
+    color: white;
+    float: inline-end;
+    text-decoration: none;
+    display: inline-block;
+    text-align: center;
+    border-radius: 8px;
+    border: 1px solid black;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    font-size: 20px;
+}
+.button:hover {
+    background-color: red; /* Green */
+    color: white;
+  }
