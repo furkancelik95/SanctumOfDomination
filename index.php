@@ -1,1 +1,1 @@
-<?php include_once("home.html"); utf8_encode ( string $veri ) : string ?>
+<?php include_once("home.html"); ?>
