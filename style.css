@@ -12,8 +12,13 @@ h3{
     color: rgb(244, 244, 245);
     background-clip: unset;
 }
+a{
+    background-color: rgba(8, 1, 1, 0.3);
+    color: rgb(244, 244, 245);
+    background-clip: unset;
+}
 html {
-    background: url(torghast.jpg) no-repeat center fixed;
+    background-color: rgba(20, 20, 20, 0.767);
     background-size: cover;
   }
 
